@@ -12,7 +12,7 @@ To use this project, follow the instructions below:
 2. Clone or download the project repository.
 3. Install the required dependencies by running the following command:
 
-pip install -r requirements
+        pip install -r requirements
 
 
 4. Run the `main.py` file to launch the plagiarism checker application.
