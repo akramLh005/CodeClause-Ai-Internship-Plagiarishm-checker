@@ -1,0 +1,13 @@
+This is a document for the Simple DB Plagiarism Checker.
+
+Je suis Akram Lahmar,un étudiant en première année du cycle d'ingénierie à l'INSAT de Tunis, spécialisé en réseaux informatiques.
+Passionné par les technologies de l'information et de la communication, j'ai choisi de me spécialiser dans le domaine
+des réseaux pour comprendre en profondeur leur fonctionnement et contribuer au développement et à la gestion de systèmes
+informatiques interconnectés.
+
+
+
+DevOps, short for Development and Operations, is a set of practices, cultural philosophies, and tools that aims to improve collaboration,
+communication, and integration between software development teams and IT operations teams. The goal of DevOps is to enable
+organizations to deliver applications and services at a faster pace, with higher quality, and with increased efficiency.
+
