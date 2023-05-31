@@ -36,6 +36,9 @@ Before running the project, ensure that you have the following prerequisites:
 4. Click the "Check plagiarism" button to calculate the cosine similarity between your input text and the database.
 5. A message box will display the result, indicating the percentage of match between your input text and the database.
 
+![User Interface](assets/ss.PNG)
+
+
 ## Algorithm
 
 The plagiarism checker uses the cosine similarity algorithm to calculate the similarity between two texts. It follows the steps below:
