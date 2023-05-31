@@ -1,0 +1,1 @@
+# CodeClause-Ai-Internship-Plagiarishm-checker
