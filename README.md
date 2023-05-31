@@ -27,7 +27,6 @@ Before running the project, ensure that you have the following prerequisites:
 
 ## Usage
 
-![User Interface](assets/ss.PNG)
 
 
 1. Launch the application by running the `main.py` file.
